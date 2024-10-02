@@ -10,7 +10,7 @@
 </a>
   <a href="https://twitter.com/@darkvinylo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@darkvinylo" height="30" width="40" />
 </a>
-<a href="https://instagram.com/@0vinylo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@0vinylo0" height="30" width="40" />
+<a href="https://instagram.com/0vinylo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@0vinylo0" height="30" width="40" />
 </a>
 
 ### Languages and Tools:
