@@ -2,7 +2,7 @@
 <h3 align="center">Curious hacker</h3>
 
 <!-- GIF a la derecha -->
-<img src="URL_DEL_GIF_AQUI" alt="GIF" width="300" height="300" align="right">
+<img src="https://github.com/0Vinylo0/0Vinylo0/blob/main/74f950b9-b540-44eb-a296-3345c7-unscreen.gif" alt="GIF" width="300" height="300" align="right">
 
 ### Connect with me:
 <a href="https://www.youtube.com/@andresdarkvinylo174" target="blank">
