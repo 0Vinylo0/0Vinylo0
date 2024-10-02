@@ -1,4 +1,4 @@
-<h1 align="center">Buenas tardes, &#127183; I'm 0Vinylo0</h1>
+<h1 align="center">Buenas tardes,&#127183; I'm 0Vinylo0</h1>
 <h3 align="center">Curious hacker</h3>
 
 <!-- GIF a la derecha -->
