@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 0Vinylo0</h1>
 <h3 align="center">Curious hacker</h3>
-1
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@andresdarkvinylo174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@andresdarkvinylo174" height="30" width="40" /></a>
