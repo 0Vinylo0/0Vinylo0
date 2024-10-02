@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm 0Vinylo0</h1>
 <h3 align="center">Curious hacker</h3>
 
-### Connect with me:
+<!-- GIF a la derecha -->
+<img src="URL_DEL_GIF_AQUI" alt="GIF" width="300" height="300" align="right">
 
-| Social Links | GIF |
-| ------------ | --- |
-| <a href="https://www.youtube.com/@andresdarkvinylo174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> | <img src="" alt="GIF" width="300" height="300"> |
+### Connect with me:
+<a href="https://www.youtube.com/@andresdarkvinylo174" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
 
 ### Languages and Tools:
 <p align="left"> 
@@ -46,4 +48,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
