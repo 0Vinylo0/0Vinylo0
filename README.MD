@@ -4,7 +4,7 @@
 <!-- GIF a la derecha -->
 <img src="https://github.com/0Vinylo0/0Vinylo0/blob/main/74f950b9-b540-44eb-a296-3345c7-unscreen.gif" alt="GIF" width="300" height="300" align="right">
 
-## Connect with me:
+### Connect with me:
 <a href="https://www.youtube.com/@andresdarkvinylo174" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
 </a>
@@ -13,7 +13,7 @@
 <a href="https://instagram.com/0vinylo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@0vinylo0" height="30" width="40" />
 </a>
 
-## 🛠 Skills:
+### 🛠 Skills:
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
