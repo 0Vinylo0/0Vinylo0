@@ -1,6 +1,7 @@
 <h1 align="center">Buenas tardes,&#127183; I'm 0Vinylo0</h1>
-<h3 align="center">Curious hacker</h3>
 <img src="https://github.com/0Vinylo0/0Vinylo0/blob/main/74f950b9-b540-44eb-a296-3345c7-unscreen.gif" alt="GIF" width="300" height="300" align="right">
+<h3 align="center">Curious hacker</h3>
+
 
 ### Connect with me:
 <a href="https://www.youtube.com/@andresdarkvinylo174" target="blank">
