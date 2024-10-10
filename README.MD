@@ -8,7 +8,6 @@
 <p>🖥️ <strong>IT Systems Management</strong></p>
 <p>💾 <strong>Software Development & Scripting</strong></p>
 
-----------------------------------------------------------------------------------------------
 
 ### Connect with me:
 <a href="https://www.youtube.com/@andresdarkvinylo174" target="blank">
