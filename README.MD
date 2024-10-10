@@ -15,7 +15,7 @@
 
 -------------------------------------------------------------
 
-<h2><u>📱 Connect with me:</u></h2>
+### 📱 Connect with me:
 
 <a href="https://www.youtube.com/@andresdarkvinylo174" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
