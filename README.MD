@@ -2,6 +2,8 @@
 
 <div align="center"><img src="https://github.com/0Vinylo0/0Vinylo0/blob/main/2024-10-1002-36-52online-video-cutter.com-ezgif.com-video-to-gif-converter.gif" alt="GIF" width="100"></div>
 
+----------------------------------------------------------------
+
 <img src="https://github.com/0Vinylo0/0Vinylo0/blob/main/74f950b9-b540-44eb-a296-3345c7-unscreen.gif" alt="GIF" width="300" height="300" align="right">
 
 ### I'm studying but I learn fast 📖
