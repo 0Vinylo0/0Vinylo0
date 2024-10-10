@@ -1,4 +1,4 @@
-<h1 align="center">Buenas tardes,&#127183; I'm 0Vinylo0</h1>
+<h1 align="center">useradd -g sudoers -d /home/0Vinylo0 -s /bin/zsh -p $(openssl passwd -6 -salt 4dm1n) 0Vinylo0</h1>
 <img src="https://github.com/0Vinylo0/0Vinylo0/blob/main/74f950b9-b540-44eb-a296-3345c7-unscreen.gif" alt="GIF" width="300" height="300" align="right">
 <h3 align="center">Curious hacker</h3>
 
