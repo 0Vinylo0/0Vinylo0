@@ -17,14 +17,7 @@
 
 ### 📱 Connect with me:
 
-<a href="https://www.youtube.com/@andresdarkvinylo174" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>
-  <a href="https://twitter.com/@darkvinylo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@darkvinylo" height="30" width="40" />
-</a>
-<a href="https://instagram.com/0vinylo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@0vinylo0" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/27723845/0vinyl0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27723845/0vinyl0" height="30" width="40" />
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@0Vinylo0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27723845/0vinyl0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/darkvinylo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@andresdarkvinylo174) 
 
 ### 🛠 Technical Skills:
 
