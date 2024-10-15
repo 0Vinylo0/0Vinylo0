@@ -59,3 +59,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0Vinylo0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0Vinylo0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0Vinylo0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0Vinylo0&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
