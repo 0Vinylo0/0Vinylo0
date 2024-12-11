@@ -24,9 +24,6 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0Vinylo0&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0Vinylo0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0Vinylo0&theme=dark&hide_border=false)<br/>
